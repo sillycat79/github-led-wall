@@ -1,0 +1,7 @@
+   # keep my wifi + github token off the internet
+   secrets.h
+
+   # mac + arduino junk
+   .DS_Store
+   build/
+   *.bin
